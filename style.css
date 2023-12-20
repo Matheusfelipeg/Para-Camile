@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+    .pri img{
+        height: 561px;
+        width: 380px;
+    }
+    .seg img{
+        height: 561px;
+        width: 380px;
+    }
+
+
+    .seg h1{
+
+    }
+
+    .seg p{
+
+    }
+    
+}
+}
